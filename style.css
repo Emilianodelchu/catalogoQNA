@@ -17,6 +17,8 @@ body {
     text-align: center;
     background-color: black;
     border-bottom: 5px solid #C00B0C;
+    width: 100%;
+    flex-wrap: wrap;
 }
 
 .logoPpal img {
