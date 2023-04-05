@@ -22,8 +22,9 @@ body {
 }
 
 .logoPpal img {
-    display: block;
+    display: flex;
     margin: auto;
+    width: 100%;
 }
 .fotoFranco {
     object-fit: fill;
