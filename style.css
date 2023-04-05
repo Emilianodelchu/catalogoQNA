@@ -177,3 +177,13 @@ height:72px !important;
     font-weight: 300;
     
 }
+
+@media (max-width: 600px) {
+    .logoPpal{
+        width: 100%;
+        
+    }
+    .logoPpal img{
+        width: 100%;
+    }
+  }
